@@ -1,2 +1,2 @@
-# TL86
-Press here: https://github.com/orgs/newbloodteam/teams/tl86
+# TL86 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl86
